@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.giddyupmultisport.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.giddyupmultisport.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.giddyupmultisport.com/collections/all.atom"/>
+  <title>Giddy Up Multisport</title>
+  <updated>2019-02-12T12:11:27-08:00</updated>
+  <author>
+    <name>Giddy Up Multisport</name>
+  </author>
+  <entry>
+    <id>https://www.giddyupmultisport.com/products/2295150608442</id>
+    <published>2019-02-12T12:11:27-08:00</published>
+    <updated>2019-02-12T12:11:27-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giddyupmultisport.com/products/giddyup-blog"/>
+    <title>GiddyUp Blog</title>
+    <s:type>Coaching</s:type>
+    <s:vendor>Giddy Up Multisport</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0116/1252/0506/products/IMG_1700.jpeg?v=1550002412" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giddy Up Multisport<br />
+        <strong>Type: </strong>Coaching<br />
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Get your monthly GiddyUp tips, tricks and great extras from the monthly blog!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blog</s:tag>
+    <s:tag>training tips</s:tag>
+    <s:variant>
+      <id>https://www.giddyupmultisport.com/products/2295150608442</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giddyupmultisport.com/products/2227415089210</id>
+    <published>2018-12-20T18:06:04-08:00</published>
+    <updated>2018-12-20T18:06:04-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giddyupmultisport.com/products/giddyup-spain-triathlon-camp"/>
+    <title>Giddy Up Coaching Spain Triathlon Camp</title>
+    <s:type>camp</s:type>
+    <s:vendor>GiddyUp Multisports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0116/1252/0506/products/image002.jpg?v=1545359055" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GiddyUp Multisports<br />
+        <strong>Type: </strong>camp<br />
+        <strong>Price: </strong>
+            2800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Dates: May 26 - June 2</span></p>
+<p><strong>Sign up by March 15th for  $500 of use code EARLY500</strong></p>
+<p><span><span class="Apple-converted-space"> </span></span><span>Package Elements-﻿</span></p>
+<ul>
+<li><span>7 Days</span></li>
+<li><span>Lodging included</span></li>
+<li><span>ALL meals included</span></li>
+<li><span>2 Massages included</span></li>
+<li><span>Scenic coastal and mountain bike routes (b/n 40-75 miles)</span></li>
+<li><span>All SAG support with mechanic included</span></li>
+<li><span>Spectacular views trail runs</span></li>
+<li><span>Track workouts</span></li>
+<li><span>Tranquil open water swimming and pool sessions with swim analysis<span class="Apple-converted-space"> </span></span></li>
+<li><span>High Quality cycling kit (bib/jersey) **if registered before March 1, 2019</span></li>
+<li><span>Amazing cultural visits to local attractions </span></li>
+</ul>
+<p>You would be responsible for:</p>
+<ul>
+<li><span>Airfare- we recommend flying into one of these airports: Madrid, Alicante or Valencia. (Valencia is the nearest Airport)</span></li>
+</ul>
+<p><span>We end the great week with a couple of events, if you want a longer distance race-stay an additional week and race a 70.3.</span></p>
+<p> </p>
+<p><span>2nd June Sprint Tri II TRIATLÓ PLATJA DE TAVERNES DE LA VALLDIGN</span></p>
+<p><span>2nd June Olympic XXX TRIATLÓ DE VINARÒS TBD</span></p>
+<p><span>9th June VALENCIA 113 MD Multiprueba<span class="Apple-converted-space"> 70.3 TBD</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Camps</s:tag>
+    <s:tag>Ironman</s:tag>
+    <s:tag>Spain Triathlon Camp</s:tag>
+    <s:tag>Triathlon</s:tag>
+    <s:tag>Triathlon camp</s:tag>
+    <s:variant>
+      <id>https://www.giddyupmultisport.com/products/2227415089210</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giddyupmultisport.com/products/2256240181306</id>
+    <published>2018-12-12T20:41:13-08:00</published>
+    <updated>2018-12-12T20:41:13-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giddyupmultisport.com/products/2019-spain-camp"/>
+    <title>2019 Spain Camp</title>
+    <s:type>camp</s:type>
+    <s:vendor>Giddy Up Multisport</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0116/1252/0506/products/ST5.png?v=1546910741" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giddy Up Multisport<br />
+        <strong>Type: </strong>camp<br />
+        <strong>Price: </strong>
+            2800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><strong><span class="s1">GiddyUp<span class="Apple-converted-space"> Spain Camp </span>Package Elements</span></strong></p>
+<p class="p2">• 7 Days - May 26 - June 3</p>
+<p class="p1"><span class="s1">• Flying into (Madrid, Alicante or Valencia) *</span>Airfare not included</p>
+<meta charset="utf-8">
+<p class="p1"><span>• </span>6 scenic bike routes with local guides (between 50 and 100 miles)</p>
+<meta charset="utf-8">
+<p class="p1"><span>• </span>Swimmimg training in pool and Open water Training sessions "pista de atletismo gandia".</p>
+<p class="p1"><span>•</span><span> </span>Running trails and Track workouts</p>
+<p class="p1"><span class="s1">• 2 massages included</span></p>
+<p class="p1"><span class="s1">• Lodging included</span></p>
+<p class="p1"><span class="s1">• All Meals included</span></p>
+<p class="p1"><span class="s1">• SAG vehicle and mechanic included</span></p>
+<p class="p1"><span class="s1">• A high quality cycling kit (bib and Jersey): </span><span class="s2">If ordered by when?<br></span></p>
+<meta charset="utf-8">
+<p class="p1"><span class="s2"><span>•</span><span> </span></span>Cultural visits to the main local attraction</p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">  </span></span></p>
+<p class="p1"><span class="s1">Races</span></p>
+<p class="p1"><span class="s1">2nd June Sprint Tri II TRIATLÓ PLATJA DE TAVERNES DE LA VALLDIGN</span></p>
+<p class="p1"><span class="s1">2nd June Olympic XXX TRIATLÓ DE VINARÒS</span></p>
+<p class="p1"><span class="s1">9th June VALENCIA 113 MD Multiprueba</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.giddyupmultisport.com/products/2256240181306</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giddyupmultisport.com/products/2219514069050</id>
+    <published>2018-12-12T20:41:13-08:00</published>
+    <updated>2018-12-12T20:41:13-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giddyupmultisport.com/products/2019-team-zoot-camp"/>
+    <title>2019 Team Zoot Camp</title>
+    <s:type>camp</s:type>
+    <s:vendor>Giddy Up Multisport</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0116/1252/0506/products/unnamed-1.jpg?v=1544676508" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giddy Up Multisport<br />
+        <strong>Type: </strong>camp<br />
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;"><img alt="Team ZOOT Logo" src="//cdn.shopify.com/s/files/1/0116/1252/0506/files/TZ_1_large.png?v=1551202738" style="float: none;"></p>
+<p>Inaugural <strong>Team ZOOT Spring Training Camp</strong>, presented by <strong>GiddyUp Multisport!! </strong></p>
+<p style="text-align: center;"><strong>Dates: Wednesday, March 13th- Sunday, March 17th</strong></p>
+<p><span>Got the "winter blues"? Excited to be part of Team Zoot? Want swim, bike and run in Southern California? Want to be part of the first Team ZOOT camp?  Tried of the trainer? Treadmill?  The </span><span>Team ZOOT Training camp will be sure to get you ready for the 2019 season. The main goal for camp is for you to have FUN while taking away something that helps you have the best season you can and to get to know your fellow Team ZOOT members!  We are excited to have </span>multiple Ironman champion <strong>Ben Hoffman,</strong> he will be here training right along side of you and feels that-<span>"Even though the tendency is to think of Ironman Professionals as a different breed, there are so many commonalities between the pros and amateur athletes! We all strive for self-improvement, seek community, have bad days, make mistakes, and thrive on challenge. Join the discussion to learn and share some of the essential tools learned in the commitment of racing, and hear what I focus on to achieve some of my best performances."  <strong>Coach </strong><strong>Michellie Jones, </strong>Ironman World Champion, Olympic Silver Medalist, Xterra World Champion and Giddyup Coach will be joining Ben Wednesday night (and, if we are lucky she'll bring her Olympic medals) </span></p>
+<p><span>Please keep in mind: Camp is FUN!!  The work we will be doing will focus on is to help each of you grow as athletes and not to pound you with mileage (you can do that at home!). Our goal is that each camper leaves camp with something that helps them improve in the swim, bike and run and along the way learn a more in-depth appreciation for all your sponsors and have a great time with your fellow Team ZOOT members!</span></p>
+<p><span> <strong>Team ZOOT Spring Camp: $299<br>Register before February 15th save $50 use code EARLYBIRD</strong></span></p>
+<p><span>If you have any questions, please reach out to Coach Robin</span></p>
+<p> </p>
+<p><span>Email:     <a href="mailto:coachrobospin13@gmail.com">coachrobospin13@gmail.com</a></span></p>
+<p><span>Cell:        760.402.7626</span></p>
+<p><strong>Location</strong>: <span>Carlsbad, California. The town that Sunset Magazine rated as one of the “20 Game Changing Places to Live” saying: “If towns were people, Carlsbad would be that friend you want to hate but can’t help admiring: smart, sporty, really good-looking, and ambitious.” Carlsbad is 36 miles north of the San Diego International Airport and 53 miles south of John Wayne Airport (in Irvine, California).</span></p>
+<p>And, home of <strong>ZOOT Sports HQ </strong>- PS: bring some extra cash as they open the store during there week for you to purchase whatever you might need!!!</p>
+<p><strong>Lodging: </strong><br><span></span></p>
+<p><span><strong>Surf House,</strong> Encinitas, CA: Surf House is a Boutique Hotel in funky Leucadia (only 5 EZ miles up the coast from ZOOT HQ).<span class="Apple-converted-space">  </span><a href="http://surfhouseadventures.com/">surfhouseadventures.com</a></span></p>
+<p>Rates: $175 for week nights and $190 for Friday/Saturday before taxes and fees.<br><span></span></p>
+<p>6 Queen Beds (all individual rooms) <br><span></span></p>
+<p><span>1 Bunk Room (4 XL twin beds on one room)</span></p>
+<p>Check out their Instagram: <br><span></span></p>
+<p><span><a href="http://www.instagram.com/surfhouseadventures">@SurfhouseAdventures</a></span></p>
+<p>And, offers a great local coffee shops, Local beer tasting and great resultants.  If you are booking on your own, please visit the website at <a href="http://www.surfhouseadventures.com/book-now">www.surfhouseadventures.com/book-now</a><br><span></span></p>
+<p><span>Email: Nikki Harth:<span class="Apple-converted-space"> </span></span></p>
+<p><span><a href="mailto:nikki@surfhouseadventures.com">nikki@surfhouseadventures.com</a></span></p>
+<p><span>Phone: 760.545.5033</span></p>
+<p><strong>HolidayInn Express and Suites Carlsbad</strong>- 2 miles away from Zoot HQ<br><span></span></p>
+<p><span>751 Raintree Drive, Carlsbad, CA 92011</span></p>
+<p><span>866-238-4218</span></p>
+<p><strong>Cape Rey Hilton Carlsbad</strong>- 3 miles away from Zoot HQ<br><span></span></p>
+<p><a href="https://www3.hilton.com/en/hotels/california/cape-rey-carlsbad-a-hilton-resort-SANRSHF/offers/index.htm" title="Cape Ray Hilton Carlsbad">https://www3.hilton.com/en/hotels/california/cape-rey-carlsbad-a-hilton-resort-SANRSHF/offers/index.htm</a></p>
+<p><span>1 Ponto Rd, Carlsbad CA 92011</span></p>
+<p><span>760-602-0800</span></p>
+<p><span><strong>AirBnB</strong>: Carlsbad offers some great homes for AirBnb and if you really want to get to know your fellow Team Zooters, rent a home during camp in beachside Carlsbad Village.</span></p>
+<p><strong>GiddyUp Multisports Coaches:</strong></p>
+<p><strong>Coach Michellie aka MJ</strong></p>
+<ul>
+<li>31 years of triathlon experience and more than 20 years of coaching.</li>
+<li>Ironman Certified Coach </li>
+<li>USAT Level 1 Certified Coach</li>
+<li>Hall of Fame - Sport Australia Hall of Fame</li>
+<li>ITU Hall of Fame</li>
+<li>Triathlon Australia Hall of Fame</li>
+<li>Ironman World Champion</li>
+<li>Olympic Silver Medalist </li>
+<li>Gold Medalist Paralympics - Guide</li>
+<li>Order of Australia Medal -AM</li>
+<li>2 x ITU World Champion</li>
+<li>2 x ITU Age Group Sprint Triathlon 45-49 </li>
+<li>2x Para Triathlon World Champion-Guide</li>
+<li>Xterra World Champion </li>
+<li>2017 Ride Triathlon Team Coach of the Year</li>
+</ul>
+<p> <strong>Coach Robin</strong></p>
+<ul>
+<li>Ironman Certified Coach</li>
+<li>USAT Level 1 Certified Coach</li>
+<li>Training Peaks Certified Coach</li>
+<li>Training Peaks Power Certified Coach</li>
+<li>Stryd Run Power Lever 2 Coach</li>
+<li>20 years of racing experience</li>
+<li>10 years of coaching all abilities from completely your first triathlon to podium ITU World Champions and Kona qualifiers.</li>
+</ul>
+<p><strong>Training Schedule:</strong></p>
+<p>***Everything is subject to change based on availability and weather and ALL activities are optional***</p>
+<p><strong>Wednesday, March 13th</strong></p>
+<p>Travel Day- plan to arrive before 3pm:</p>
+<p>4pm            30 min EZ "Get the blood flowing" Run from ZOOT HQ</p>
+<p>6pm            Group Dinner at Draft House- meals will be on you. Check out the link to see menu:  </p>
+<p><a href="https://www.cohnrestaurants.com/draftrepublic-carlsbad/menu" title="Draft Republic menu">https://www.cohnrestaurants.com/draftrepublic-carlsbad/menu</a></p>
+<p><strong>Thursday, March 14th</strong></p>
+<p>8am-9am         Easy Run- Trails around Alga Norte </p>
+<p>9am-10:30am- Alga Norte Community pool</p>
+<p><a href="http://www.carlsbadca.gov/services/depts/parks/programs/aquatics/alganorteaquatic.asp" title="Alga Norte Community Pool">http://www.carlsbadca.gov/services/depts/parks/programs/aquatics/alganorteaquatic.asp</a></p>
+<p>                           Swim Analysis </p>
+<p>                           Swim Session- Long Course 50m</p>
+<p>11am-12pm        Bike Skills</p>
+<p>12:30pm-1:30pm Lunch - on your own</p>
+<p>2pm-4pm           Run Session/Drills</p>
+<p>                           Run Analysis </p>
+<p>5pm-9pm:          Dinner at Leap Coffee - Taco Truck</p>
+<p>                               <a href="https://www.leap.coffee" title="Leap Coffee">https://www.leap.coffee</a></p>
+<p>                           Q&amp;A with Ben Hoffman and Michellie Jones                  </p>
+<p>                           Sponsorsnip Q&amp;A: BASE SALT, Otter Locks, Speedfill</p>
+<p><strong>Friday, March 15th</strong></p>
+<p>7:30am-8:30am   Alga Norte Community Pool-Long Course 50m</p>
+<p>                            Swim Session- drills and short speed sets</p>
+<p>9am-12pm      Ride through Rancho Sante Fe</p>
+<p>                            Met at Canyon Bikes</p>
+<p>12pm-1:30pm      Lunch</p>
+<p>1:30am-3:30pm   Run session</p>
+<p>4pm-5pm            Functional Strength-Crossfit 760</p>
+<div jstcache="36" class="place-name" jsan="7.place-name">                                        Crossfit 760</div>
+<div jstcache="37" class="address" jsan="7.address">              1945 S Rancho Santa Fe Rd suite c, San Marcos, CA 92078</div>
+<div jstcache="37" class="address" jsan="7.address"></div>
+<p>5pm-9pm            Dinner- Food Truck</p>
+<p>                            Sponsorship Q&amp;A: ORR Wheels, Tharagun, Gatorade</p>
+<p><strong>Saturday, March 16th</strong></p>
+<p>8am-9am         Alga Norte Short course</p>
+<p>                         Swim session- strength based and dry land band work</p>
+<p>9:30am              Met at Caynon</p>
+<p>                          Ride Elfin Forrest Reverse Loop</p>
+<p>                           T-Run 20-40 min</p>
+<p>3pm-4:30          Functional Strength</p>
+<div jstcache="36" class="place-name" jsan="7.place-name">                                    Crossfit 760</div>
+<div jstcache="37" class="address" jsan="7.address">              1945 S Rancho Santa Fe Rd suite c, San Marcos, CA 92078</div>
+<div jstcache="37" class="address" jsan="7.address"></div>
+<div jstcache="37" class="address" jsan="7.address">4:30pm-5:30pm   Yoga</div>
+<div jstcache="37" class="address" jsan="7.address"></div>
+<p>6pm                 Team Dinner- will be on your own.</p>
+<p><strong>Sunday, March 17th</strong></p>
+<p>7:30am-9:30am  Long Run </p>
+<p>10-11:30            Functional Strength session</p>
+<p>12pm                 Zoot HQ for conclusion and final thoughts and departures</p>
+<p>**All dinners are optional and you will be responsible for two dinners**</p>
+<p><strong>Retul bike fitting:</strong> We are lucky to have expert Retul bike fitter Nate Koch available through out the week and is offering fitting to all of Team Zoot.</p>
+<p>Nate's philosophy is: "<span>Speed is a byproduct of comfort and sustainability. We want to understand how your body functions most optimal and allow it to do that naturally. It is when the body is forced into positions and made to do unnatural movements that discomfort and injuries occur. The only pain you should feel on the bike is the pain you inflict upon yourself. Your saddle should feel great majority of the time, nothing should be going numb and you shouldn’t have any neck, back,  shoulder or knee pain."  </span>After five years of bike fitting and several thousand bike fit I have learned not just how to use a fancy motion capture machine, but more importantly what changes to make when riders express certain issues. When your body shifts forward, back or up and down it is trying to tell us where it wants to be and we just have to know how to listen.<br><span></span></p>
+<p>Nate's Retul bike fitting rate is normally $325- Team Zoot rate $225.  To schedule a fitting please email Nate at <a href="mailto:actasif@gmail.com">actasif@gmail.com</a>.</p>
+<p>To pay for a Retul bike fit: PayPal: <a href="mailto:actasif@gmail.com">actasif@gmail.com</a></p>
+<p><strong>Support: </strong>ALL the sessions are fully supported. Rides will be sagged with nutrition, hydration, mechanical support and directions.</p>
+<p><strong>Weather: </strong>Yes, SoCal is beautiful this time of year but it still is a high desert, so can be chilly mornings and cool evenings.  Be prepared for both warm and cold weather. Pack you thermal cycling jacket, base-layer, gloves, arm and knees warmers.  </p>
+<p><strong>FAQ’s:</strong></p>
+<p> </p>
+<p><span>-Can I attend if I am new to the team:</span></p>
+<p><span><span class="Apple-tab-span"> </span>Of course-one of the many purposes is to met and get to know other teams members no matter what your skill level is.</span></p>
+<p><span>-Can I rent a bike?</span></p>
+<p><span><span class="Apple-tab-span"> </span>Yes, we have several bike shop locally that will rent you a bike BUT we don encourage that you bring your bike. And, Canyon will have some demos for you to try.</span></p>
+<p><span>-Do I need a rental car?</span></p>
+<p><span><span class="Apple-tab-span"> </span>We do encourage that you do rent a car, campers are responsible for their own transportation to and from the airport, as well as, team functions.</span></p>
+<p><span>-Can I send my bike prior to camp?<span class="Apple-converted-space">  </span>Yes, we will have a bike mechanic.  The charge to have your bike built and then boxed after the week is $180.  If you want to ship your bike, we suggest Bike Flights and shipped directly to the shop. Please email us for further </span>information.</p>
+<p><span>-Can we purchase ZOOT clothing during the week!<span class="Apple-converted-space">  </span>YES!<span class="Apple-converted-space">  </span>We will have several meeting points at ZOOT HQ and will have the store all to yourself.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.giddyupmultisport.com/products/2219514069050</id>
+      <title>Default Title</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giddyupmultisport.com/products/1843768000570</id>
+    <published>2018-08-21T06:14:53-07:00</published>
+    <updated>2018-08-21T06:14:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giddyupmultisport.com/products/marathon"/>
+    <title>Marathon</title>
+    <s:type></s:type>
+    <s:vendor>Giddy Up Multisport</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0116/1252/0506/products/Self-Guided-training-plan-giddy-up-multisports_0968795a-3ff0-46c1-a825-0795d200226f.png?v=1534858459" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giddy Up Multisport<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Select the training plan that best suits your needs</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.giddyupmultisport.com/products/1843768000570</id>
+      <title>Half-Marathon</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.giddyupmultisport.com/products/1843768000570</id>
+      <title>Full-Marathon</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giddyupmultisport.com/products/1843767312442</id>
+    <published>2018-08-21T06:14:53-07:00</published>
+    <updated>2018-08-21T06:14:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giddyupmultisport.com/products/10k"/>
+    <title>10K</title>
+    <s:type></s:type>
+    <s:vendor>Giddy Up Multisport</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0116/1252/0506/products/Self-Guided-training-plan-giddy-up-multisports_12c6a7db-6311-4536-b337-c9cf030076ea.png?v=1534858444" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giddy Up Multisport<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Select the training plan that best suits your needs</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.giddyupmultisport.com/products/1843767312442</id>
+      <title>Beginner</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.giddyupmultisport.com/products/1843767312442</id>
+      <title>Intermediate</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giddyupmultisport.com/products/1843766034490</id>
+    <published>2018-08-21T06:14:53-07:00</published>
+    <updated>2018-08-21T06:14:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giddyupmultisport.com/products/5k"/>
+    <title>5K</title>
+    <s:type></s:type>
+    <s:vendor>Giddy Up Multisport</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0116/1252/0506/products/Self-Guided-training-plan-giddy-up-multisports_26a7ad2c-5ae9-4f45-82cf-9db744920653.png?v=1534858419" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giddy Up Multisport<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Select the training plan that best suits your needs</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.giddyupmultisport.com/products/1843766034490</id>
+      <title>Beginner</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.giddyupmultisport.com/products/1843766034490</id>
+      <title>Intermediate</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giddyupmultisport.com/products/1843764363322</id>
+    <published>2018-08-21T06:14:53-07:00</published>
+    <updated>2018-08-21T06:14:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giddyupmultisport.com/products/full-ironman-140-6"/>
+    <title>Full-Ironman | 140.6</title>
+    <s:type></s:type>
+    <s:vendor>Giddy Up Multisport</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0116/1252/0506/products/Self-Guided-training-plan-giddy-up-multisports_1731ae7b-a841-42c5-807c-fd90ba5e3055.png?v=1534858379" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giddy Up Multisport<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Select the training plan that best suits your needs</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.giddyupmultisport.com/products/1843764363322</id>
+      <title>Beginner</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.giddyupmultisport.com/products/1843764363322</id>
+      <title>Intermediate</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giddyupmultisport.com/products/1843763052602</id>
+    <published>2018-08-21T06:14:53-07:00</published>
+    <updated>2018-08-21T06:14:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giddyupmultisport.com/products/half-ironman-70-3"/>
+    <title>Half-Ironman | 70.3</title>
+    <s:type></s:type>
+    <s:vendor>Giddy Up Multisport</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0116/1252/0506/products/Self-Guided-training-plan-giddy-up-multisports_4a8ddf38-c453-4a31-8408-3e9d7523c2ef.png?v=1534858344" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giddy Up Multisport<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Select the training plan that best suits your needs</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.giddyupmultisport.com/products/1843763052602</id>
+      <title>Beginner</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.giddyupmultisport.com/products/1843763052602</id>
+      <title>Intermediate</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giddyupmultisport.com/products/1843762036794</id>
+    <published>2018-08-21T06:14:53-07:00</published>
+    <updated>2018-08-21T06:14:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giddyupmultisport.com/products/olympic"/>
+    <title>Olympic</title>
+    <s:type></s:type>
+    <s:vendor>Giddy Up Multisport</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0116/1252/0506/products/Self-Guided-training-plan-giddy-up-multisports_283c5979-7c00-47fd-a94b-692a359c87ed.png?v=1534858321" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giddy Up Multisport<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Select the training plan that best suits your needs</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.giddyupmultisport.com/products/1843762036794</id>
+      <title>Beginner</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.giddyupmultisport.com/products/1843762036794</id>
+      <title>Intermediate</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giddyupmultisport.com/products/1843693912122</id>
+    <published>2018-08-21T06:14:53-07:00</published>
+    <updated>2018-08-21T06:14:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giddyupmultisport.com/products/sprint-tri-training-plans"/>
+    <title>Sprint Tri | Training Plans</title>
+    <s:type></s:type>
+    <s:vendor>Giddy Up Multisport</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0116/1252/0506/products/Self-Guided-training-plan-giddy-up-multisports_09ee2c5e-db0e-4156-9c76-08135739da65.png?v=1534858121" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giddy Up Multisport<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Select the training plan that best suits your needs</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.giddyupmultisport.com/products/1843693912122</id>
+      <title>Beginner</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.giddyupmultisport.com/products/1843693912122</id>
+      <title>Intermediate</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giddyupmultisport.com/products/1564445638714</id>
+    <published>2018-06-28T12:21:26-07:00</published>
+    <updated>2018-06-28T12:21:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giddyupmultisport.com/products/bike-fitting-nate-koch"/>
+    <title>Professional Bike Fitting | Nate Koch</title>
+    <s:type></s:type>
+    <s:vendor>Giddy Up Multisport</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0116/1252/0506/products/Self-Guided-training-plan-giddy-up-multisports_89531d0d-74c1-409b-bf35-a02e134f35e5.png?v=1530213936" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giddy Up Multisport<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            325.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Professional Bike fitting with Nate Koch</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bike fit</s:tag>
+    <s:tag>nate koch</s:tag>
+    <s:tag>professional fit</s:tag>
+    <s:variant>
+      <id>https://www.giddyupmultisport.com/products/1564445638714</id>
+      <title>Default Title</title>
+      <s:price currency="USD">325.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giddyupmultisport.com/products/1564421128250</id>
+    <published>2018-06-28T12:03:39-07:00</published>
+    <updated>2018-06-28T12:03:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giddyupmultisport.com/products/wednesday-spin"/>
+    <title>Wednesday | Spin</title>
+    <s:type></s:type>
+    <s:vendor>Giddy Up Multisport</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0116/1252/0506/products/Self-Guided-training-plan-giddy-up-multisports_0c4b9ac3-f1b8-4aa1-b48f-eee796a8a6d7.png?v=1530213676" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giddy Up Multisport<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            20.00 - 200.00
+            <a href="https://www.giddyupmultisport.com/products/wednesday-spin">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Wednesday Spin Class Taught by Michellie Jones herself</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.giddyupmultisport.com/products/1564421128250</id>
+      <title>One-Time</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.giddyupmultisport.com/products/1564421128250</id>
+      <title>Monthly</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.giddyupmultisport.com/products/1564421128250</id>
+      <title>Quarterly</title>
+      <s:price currency="USD">200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giddyupmultisport.com/products/1564311584826</id>
+    <published>2018-06-28T11:56:39-07:00</published>
+    <updated>2018-06-28T11:56:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giddyupmultisport.com/products/tuesday-run-group"/>
+    <title>Tuesday | run group</title>
+    <s:type></s:type>
+    <s:vendor>Giddy Up Multisport</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0116/1252/0506/products/Self-Guided-training-plan-giddy-up-multisports_bb421112-b97a-4120-bcad-029da33ec747.png?v=1530212513" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giddy Up Multisport<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            20.00 - 200.00
+            <a href="https://www.giddyupmultisport.com/products/tuesday-run-group">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Tuesday run group with Michellie Jones and Robin Barsantee</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coaching</s:tag>
+    <s:tag>professional</s:tag>
+    <s:tag>running</s:tag>
+    <s:tag>tri</s:tag>
+    <s:tag>triathleon</s:tag>
+    <s:variant>
+      <id>https://www.giddyupmultisport.com/products/1564311584826</id>
+      <title>One-Time</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.giddyupmultisport.com/products/1564311584826</id>
+      <title>Month</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.giddyupmultisport.com/products/1564311584826</id>
+      <title>Quarter</title>
+      <s:price currency="USD">200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giddyupmultisport.com/products/1564137521210</id>
+    <published>2018-06-28T11:48:16-07:00</published>
+    <updated>2018-06-28T11:48:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giddyupmultisport.com/products/transition-clinic"/>
+    <title>Transition | clinic</title>
+    <s:type>clinic</s:type>
+    <s:vendor>Giddy Up Multisport</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0116/1252/0506/products/Self-Guided-training-plan-giddy-up-multisports_99241114-1011-492b-9604-1c86c92e3ad2.png?v=1530211750" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giddy Up Multisport<br />
+        <strong>Type: </strong>clinic<br />
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clinic</s:tag>
+    <s:tag>coaching</s:tag>
+    <s:tag>transition</s:tag>
+    <s:variant>
+      <id>https://www.giddyupmultisport.com/products/1564137521210</id>
+      <title>Default Title</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giddyupmultisport.com/products/1564122808378</id>
+    <published>2018-06-28T11:47:14-07:00</published>
+    <updated>2018-06-28T11:47:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giddyupmultisport.com/products/run-gait-analysis"/>
+    <title>Run Gait | Analysis</title>
+    <s:type></s:type>
+    <s:vendor>Giddy Up Multisport</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0116/1252/0506/products/Self-Guided-training-plan-giddy-up-multisports_b05089a2-ec95-4aa6-a2b0-c51c2284adb3.png?v=1530211691" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giddy Up Multisport<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Professional Run Gait Analysis.</p>
+<ul>
+<li>$100.00 Per Hour</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>analysis</s:tag>
+    <s:tag>coaching</s:tag>
+    <s:tag>gait</s:tag>
+    <s:tag>service</s:tag>
+    <s:tag>tri</s:tag>
+    <s:variant>
+      <id>https://www.giddyupmultisport.com/products/1564122808378</id>
+      <title>Default Title</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giddyupmultisport.com/products/1564109176890</id>
+    <published>2018-06-28T11:43:31-07:00</published>
+    <updated>2018-06-28T11:43:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giddyupmultisport.com/products/swim-stroke-analysis"/>
+    <title>Swim Stroke | Analysis</title>
+    <s:type>analysis</s:type>
+    <s:vendor>Giddy Up Multisport</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0116/1252/0506/products/Self-Guided-training-plan-giddy-up-multisports.png?v=1530211630" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giddy Up Multisport<br />
+        <strong>Type: </strong>analysis<br />
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Professional individual Swim Stroke Analysis.</p>
+<ul>
+<li>Hourly Rate $100.00</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coaching</s:tag>
+    <s:tag>service</s:tag>
+    <s:tag>stroke</s:tag>
+    <s:tag>swim</s:tag>
+    <s:tag>tri</s:tag>
+    <s:variant>
+      <id>https://www.giddyupmultisport.com/products/1564109176890</id>
+      <title>Default Title</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giddyupmultisport.com/products/1480832286778</id>
+    <published>2018-06-15T18:14:52-07:00</published>
+    <updated>2018-06-15T18:14:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giddyupmultisport.com/products/7-week-tri-camp-kids"/>
+    <title>8 Week Tri Camp | Kids</title>
+    <s:type>camp</s:type>
+    <s:vendor>Giddy Up Multisport</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0116/1252/0506/products/Self-Guided-training-plan-giddy-up-multisports_f318b7af-5a1a-4583-aff3-9ec53716d30c.png?v=1530243295" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giddy Up Multisport<br />
+        <strong>Type: </strong>camp<br />
+        <strong>Price: </strong>
+            20.00 - 160.00
+            <a href="https://www.giddyupmultisport.com/products/7-week-tri-camp-kids">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4 data-ux="ContentHeading" data-aid="CONTENT_MEDIA_HEADLINE1_RENDERED" data-route="mediaHeadline1" class="x-el x-el-h4 px_-text-transform-none px_-overflow-wrap-break-word px_-word-wrap-break-word px_-word-break-break-word px_-fs-20 px_-c-rgb27__27__27 px_-fw-400 px_-lh-1p25 px_-ml-0 px_-mr-0 px_-mt-0 px_-mb-0 px_-ff-_Source_Sans_Pro___arial__sans-serif _mdpx_-fs-22 _lgpx_-fs-22 x-d-ux x-d-aid x-d-route">Giddy Up Tri Kids Information</h4>
+<div data-ux="ContentText" data-aid="CONTENT_MEDIA_DESCRIPTION1_RENDERED" data-route="mediaLayoutDescription1" class="x-el x-el-p px_-text-transform-none px_-overflow-wrap-break-word px_-word-wrap-break-word px_-word-break-break-word px_-c-rgb94__94__94 px_-fs-16 px_-fw-400 px_-lh-1p5 px_-mt-0 px_-mb-0 px_-ff-_Source_Sans_Pro___arial__sans-serif px__CA_p_CA_ol-text-align-left px__CA_p_CA_ol-d-inline-block px__CA_p_CA_ol-pl-1p3em px__CA_p_CA_ol-ml-30px px__CA_p_CA_ol-mr-30px px__CA_p_CA_ul-text-align-left px__CA_p_CA_ul-d-inline-block px__CA_p_CA_ul-pl-1p3em px__CA_p_CA_ul-ml-30px px__CA_p_CA_ul-mr-30px px__CA_ul-text-align-left px__CA_ul-d-inline-block px__CA_ul-pl-1p3em px__CA_ul-ml-30px px__CA_ul-mr-30px px__CA_ol-text-align-left px__CA_ol-d-inline-block px__CA_ol-pl-1p3em px__CA_ol-ml-30px px__CA_ol-mr-30px _mdpx_-fs-16 _lgpx_-fs-16 x-d-ux x-d-aid x-d-route x-rt">
+<img src="//cdn.shopify.com/s/files/1/0116/1252/0506/files/rs_h-1300_cg-true-1_large.jpeg?v=1529108666" alt=""><br>
+<ul>
+<li>Alga Norte </li>
+<li>Tuesdays and Thursdays</li>
+<li>4.45pm-5.45pm</li>
+<li>Program Starts 12th of June, 2018 Giddy Up Coaching invites you to join our Junior Triathlon program culminating with the Chula Vista Triathlon on the 12th August, 2018 -</li>
+<li>Mini Tri 11yrs+ 200m swim, 7m bike, 1.5m run</li>
+<li>It's Tri Ages 7-10 yrs 100m swim, 2.2 m bike, 0.75m run</li>
+<li> Sprint Tri 16 years+ 500m swim, 12mile Bike and 3.1mile run )</li>
+<li>Cost $160 (Plus entry to Chula Vista Triathlon *must be 7-15years old years to participate in Kids Triathlon. 16 years+ 500 swim, 12mile Bike and 3.1mile run)</li>
+<li>Drop in fee $20 per session</li>
+</ul>
+</div>
+<br> <br> <br>
+<div class="mailmunch-forms-widget-654527"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>camp</s:tag>
+    <s:tag>coach</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>professional</s:tag>
+    <s:tag>training</s:tag>
+    <s:tag>tri</s:tag>
+    <s:tag>triathelon</s:tag>
+    <s:variant>
+      <id>https://www.giddyupmultisport.com/products/1480832286778</id>
+      <title>One Class</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>Kid-1-Day</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.giddyupmultisport.com/products/1480832286778</id>
+      <title>Full Course</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku>Kid-All-Days</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giddyupmultisport.com/products/1480821997626</id>
+    <published>2018-06-15T18:11:21-07:00</published>
+    <updated>2018-06-15T18:11:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giddyupmultisport.com/products/tri-camp-women-specific"/>
+    <title>TRI CAMP | Women Specific</title>
+    <s:type></s:type>
+    <s:vendor>Giddy Up Multisport</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0116/1252/0506/products/Self-Guided-training-plan-giddy-up-multisports_2a46b6c2-c153-416a-b022-0b41d07f6a63.png?v=1530243339" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giddy Up Multisport<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 data-ux="Block" data-aid="PRODUCT_NAME_RENDERED" class="x-el x-el-h1 px_-text-transform-uppercase px_-mt-0 px_-mb-15px px_-fs-25 px_-c-rgb247__247__247 px_-text-align-center px_-ff-_Fjalla_One___arial__sans-serif _smpx_-text-align-left _mdpx_-fs-30 _lgpx_-fs-31 x-d-ux x-d-aid">RIDE TRI TEAM WOMEN FOR TRI CAMP HOSTED BY GIDDY UP MULTISPORTS COACHING</h1>
+<p><span><img src="//cdn.shopify.com/s/files/1/0116/1252/0506/files/rs_h-1300_cg-true_m_large.jpeg?v=1529108439" alt=""></span></p>
+<p><span>Sign Up for the Ride Tri Team Women's Camp July 27th-29th, 2018 Hosted by Giddy Up Multisports Coaching with Ironman World Champion and Olympic Medalist Michellie Jones.</span></p>
+<br> <br> <br>
+<div class="mailmunch-forms-widget-654527"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>camp</s:tag>
+    <s:tag>team</s:tag>
+    <s:tag>training</s:tag>
+    <s:tag>tri</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.giddyupmultisport.com/products/1480821997626</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giddyupmultisport.com/products/1480743157818</id>
+    <published>2018-06-15T17:27:51-07:00</published>
+    <updated>2018-06-15T17:27:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giddyupmultisport.com/products/monthly-coaching-michellie-jones"/>
+    <title>Monthly Coaching | Michellie Jones</title>
+    <s:type>Coaching</s:type>
+    <s:vendor>Giddy Up Multisport</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0116/1252/0506/products/Self-Guided-training-plan-giddy-up-multisports_5894117b-20f7-4964-9fd3-96de344617fa.png?v=1530243311" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giddy Up Multisport<br />
+        <strong>Type: </strong>Coaching<br />
+        <strong>Price: </strong>
+            300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-ux="ContentText" data-aid="CONTENT_MEDIA_DESCRIPTION1_RENDERED" data-route="mediaLayoutDescription1" class="x-el x-el-p px_-text-transform-none px_-overflow-wrap-break-word px_-word-wrap-break-word px_-word-break-break-word px_-c-rgb94__94__94 px_-fs-16 px_-fw-400 px_-lh-1p5 px_-mt-0 px_-mb-0 px_-ff-_Source_Sans_Pro___arial__sans-serif px__CA_p_CA_ol-text-align-left px__CA_p_CA_ol-d-inline-block px__CA_p_CA_ol-pl-1p3em px__CA_p_CA_ol-ml-30px px__CA_p_CA_ol-mr-30px px__CA_p_CA_ul-text-align-left px__CA_p_CA_ul-d-inline-block px__CA_p_CA_ul-pl-1p3em px__CA_p_CA_ul-ml-30px px__CA_p_CA_ul-mr-30px px__CA_ul-text-align-left px__CA_ul-d-inline-block px__CA_ul-pl-1p3em px__CA_ul-ml-30px px__CA_ul-mr-30px px__CA_ol-text-align-left px__CA_ol-d-inline-block px__CA_ol-pl-1p3em px__CA_ol-ml-30px px__CA_ol-mr-30px _mdpx_-fs-16 _lgpx_-fs-16 x-d-ux x-d-aid x-d-route x-rt">
+<div>
+<h4 class="x-el x-el-h4 px_-text-transform-none px_-overflow-wrap-break-word px_-word-wrap-break-word px_-word-break-break-word px_-fs-20 px_-c-rgb255__123__0 px_-fw-400 px_-lh-1p4 px_-ml-auto px_-mr-0 px_-mt-0 px_-mb-40px px_-ff-_Source_Sans_Pro___arial__sans-serif px_-text-align-center _mdpx_-text-align-center _mdpx_-ml-auto _mdpx_-fs-22 _lgpx_-fs-22 x-d-ux">Monthly Coaching | Michellie Jones</h4>
+<p><strong>Head Coach Michellie Jones</strong></p>
+<p>Michellie Jones's most impressive talents are not just found in her accolades that includes Olympic Medals, Ironman World Championship Titles and ITU World Championships but in her unique ability and vast experience to access goals and provide all the ingredients required to be successful.</p>
+<p>A former professional athlete who coaches, guides and empowers each athlete to optimum athletic and personal success. A vast knowledge of triathlon rules, regulations, injury prevention and motivational techniques with over 30 years participating and coaching at the Elite Level in Triathlons. The coaching philosophy is directed towards cultivating hardworking, focused athletes and teams with an emphasis on teamwork, perseverance and inspiring athletes to do their best. Dream it. Believe it. Live it.</p>
+<div>
+<h4 class="x-el x-el-h4 px_-text-transform-none px_-overflow-wrap-break-word px_-word-wrap-break-word px_-word-break-break-word px_-fs-20 px_-c-rgb255__123__0 px_-fw-400 px_-lh-1p4 px_-ml-auto px_-mr-0 px_-mt-0 px_-mb-40px px_-ff-_Source_Sans_Pro___arial__sans-serif px_-text-align-center _mdpx_-text-align-center _mdpx_-ml-auto _mdpx_-fs-22 _lgpx_-fs-22 x-d-ux">Giddy Up Coaching </h4>
+</div>
+<ul>
+<li>Startup interview and assessment</li>
+<li>Evaluation of current state of fitness</li>
+<li>Individual goal development and pace of progression</li>
+<li>Custom programming based on your needs, strengths and weaknesses</li>
+<li>Unlimited communication by phone, text, email</li>
+<li>Weekly video or phone calls</li>
+<li>The training program and plan development</li>
+<li>Skills assessment sessions for swim, bike and run</li>
+<li>Developing an annual training plan</li>
+</ul>
+</div>
+<br> <br> <br>
+<div class="mailmunch-forms-widget-654527"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>barsantee</s:tag>
+    <s:tag>bike</s:tag>
+    <s:tag>coaching</s:tag>
+    <s:tag>individual</s:tag>
+    <s:tag>Ironman</s:tag>
+    <s:tag>Michellie Jones</s:tag>
+    <s:tag>robin</s:tag>
+    <s:tag>run</s:tag>
+    <s:tag>Spain Triathlon Camp</s:tag>
+    <s:tag>swim</s:tag>
+    <s:tag>time trial</s:tag>
+    <s:tag>training camp</s:tag>
+    <s:tag>tri</s:tag>
+    <s:tag>Tri Coaching</s:tag>
+    <s:tag>Triathlon</s:tag>
+    <s:tag>triathlon Coaching</s:tag>
+    <s:variant>
+      <id>https://www.giddyupmultisport.com/products/1480743157818</id>
+      <title>Default Title</title>
+      <s:price currency="USD">300.00</s:price>
+      <s:sku>MJTRAIN2018</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.giddyupmultisport.com/products/1480739749946</id>
+    <published>2018-06-15T17:27:51-07:00</published>
+    <updated>2018-06-15T17:27:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.giddyupmultisport.com/products/monthly-coaching-robin-barsantee"/>
+    <title>Monthly Coaching | Robin Barsantee</title>
+    <s:type>Coaching</s:type>
+    <s:vendor>Giddy Up Multisport</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0116/1252/0506/products/Self-Guided-training-plan-giddy-up-multisports_6a15c6b7-f2db-485a-9075-4a212300d40b.png?v=1551110039" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giddy Up Multisport<br />
+        <strong>Type: </strong>Coaching<br />
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-ux="ContentText" data-aid="CONTENT_MEDIA_DESCRIPTION1_RENDERED" data-route="mediaLayoutDescription1" class="x-el x-el-p px_-text-transform-none px_-overflow-wrap-break-word px_-word-wrap-break-word px_-word-break-break-word px_-c-rgb94__94__94 px_-fs-16 px_-fw-400 px_-lh-1p5 px_-mt-0 px_-mb-0 px_-ff-_Source_Sans_Pro___arial__sans-serif px__CA_p_CA_ol-text-align-left px__CA_p_CA_ol-d-inline-block px__CA_p_CA_ol-pl-1p3em px__CA_p_CA_ol-ml-30px px__CA_p_CA_ol-mr-30px px__CA_p_CA_ul-text-align-left px__CA_p_CA_ul-d-inline-block px__CA_p_CA_ul-pl-1p3em px__CA_p_CA_ul-ml-30px px__CA_p_CA_ul-mr-30px px__CA_ul-text-align-left px__CA_ul-d-inline-block px__CA_ul-pl-1p3em px__CA_ul-ml-30px px__CA_ul-mr-30px px__CA_ol-text-align-left px__CA_ol-d-inline-block px__CA_ol-pl-1p3em px__CA_ol-ml-30px px__CA_ol-mr-30px _mdpx_-fs-16 _lgpx_-fs-16 x-d-ux x-d-aid x-d-route x-rt">
+<div>
+<h4 class="x-el x-el-h4 px_-text-transform-none px_-overflow-wrap-break-word px_-word-wrap-break-word px_-word-break-break-word px_-fs-20 px_-c-rgb255__123__0 px_-fw-400 px_-lh-1p4 px_-ml-auto px_-mr-0 px_-mt-0 px_-mb-40px px_-ff-_Source_Sans_Pro___arial__sans-serif px_-text-align-center _mdpx_-text-align-center _mdpx_-ml-auto _mdpx_-fs-22 _lgpx_-fs-22 x-d-ux">Monthly Coaching | Robin Barsantee</h4>
+</div>
+<ul>
+<li>Start up interview and assessment</li>
+<li>Evaluation of current state of fitness</li>
+<li>Individual goal development and pace of progression</li>
+<li>Custom programing based on your needs, strengths and weaknesses</li>
+<li>Unlimited communication by phone, text, email</li>
+<li>Weekly video or phone calls</li>
+<li>Training program and plan development</li>
+<li>Skills assessment sessions for swim, bike and run</li>
+<li>Developing an annual training plan</li>
+</ul>
+</div>
+<br> <br> <br>
+<div class="mailmunch-forms-widget-654527"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>barsantee</s:tag>
+    <s:tag>bike</s:tag>
+    <s:tag>coaching</s:tag>
+    <s:tag>individual</s:tag>
+    <s:tag>robin</s:tag>
+    <s:tag>run</s:tag>
+    <s:tag>swim</s:tag>
+    <s:tag>time trial</s:tag>
+    <s:tag>tri</s:tag>
+    <s:tag>triathelon</s:tag>
+    <s:variant>
+      <id>https://www.giddyupmultisport.com/products/1480739749946</id>
+      <title>Default Title</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku>RBMC2018</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
